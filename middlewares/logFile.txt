@@ -1,0 +1,14 @@
+New user Authenticated!
+Username: Kausalya
+Password: Kausi@03
+URL: /api/checkLoggerData/Kausalya/Kausi@03
+Date: 10/7/2024, 7:40:02 pm
+Method Type: POST
+
+New user Authenticated!
+Username: Kausalya
+Password: Kausi@05
+URL: /api/checkLoggerData/Kausalya/Kausi@05
+Date: 10/7/2024, 7:40:50 pm
+Method Type: POST
+
